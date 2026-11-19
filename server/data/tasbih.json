@@ -1,0 +1,44 @@
+[
+ {
+  "id": "t1",
+  "label": "SubhanAllah",
+  "arabic": "سُبْحَانَ اللَّهِ",
+  "target": 33,
+  "meaning": "Glory be to Allah"
+ },
+ {
+  "id": "t2",
+  "label": "Alhamdulillah",
+  "arabic": "الْحَمْدُ لِلَّهِ",
+  "target": 33,
+  "meaning": "All praise is for Allah"
+ },
+ {
+  "id": "t3",
+  "label": "Allahu Akbar",
+  "arabic": "اللَّهُ أَكْبَرُ",
+  "target": 34,
+  "meaning": "Allah is the Greatest"
+ },
+ {
+  "id": "t4",
+  "label": "La ilaha illallah",
+  "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+  "target": 100,
+  "meaning": "There is no god but Allah"
+ },
+ {
+  "id": "t5",
+  "label": "Astaghfirullah",
+  "arabic": "أَسْتَغْفِرُ اللَّهَ",
+  "target": 100,
+  "meaning": "I seek Allah’s forgiveness"
+ },
+ {
+  "id": "t6",
+  "label": "Salawat",
+  "arabic": "صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+  "target": 100,
+  "meaning": "Blessings upon the Prophet ﷺ"
+ }
+]

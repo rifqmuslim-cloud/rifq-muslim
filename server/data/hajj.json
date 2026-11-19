@@ -1,0 +1,62 @@
+[
+ {
+  "id": "j1",
+  "title": "1. Ihram and intention",
+  "detail": "Enter the state of ihram at or before the miqat: perform wudu, wear the garments (two white sheets for men; modest dress for women), and make the intention for Hajj or Umrah. Recite the talbiyah frequently: \"Labbayk Allahumma labbayk...\"",
+  "dua": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ"
+ },
+ {
+  "id": "j2",
+  "title": "2. Tawaf of the Kaaba",
+  "detail": "Enter Masjid al-Haram and begin seven circuits of the Kaaba, starting at the Black Stone, keeping it on your left. Men uncover the right shoulder and walk briskly in the first three circuits.",
+  "dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ"
+ },
+ {
+  "id": "j3",
+  "title": "3. Sa’i between Safa and Marwah",
+  "detail": "Walk seven times between Safa and Marwah, starting at Safa. Men jog between the green markers. This completes Umrah.",
+  "dua": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ"
+ },
+ {
+  "id": "j4",
+  "title": "4. Mina - 8th Dhul Hijjah",
+  "detail": "Travel to Mina, pray Dhuhr, Asr, Maghrib, Isha and the next Fajr there, shortening the four-rak’ah prayers but not combining them.",
+  "dua": ""
+ },
+ {
+  "id": "j5",
+  "title": "5. Arafah - 9th Dhul Hijjah",
+  "detail": "The essential rite. Stand at Arafah from noon until sunset in supplication, praying Dhuhr and Asr together. Whoever misses Arafah has missed Hajj.",
+  "dua": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ"
+ },
+ {
+  "id": "j6",
+  "title": "6. Muzdalifah",
+  "detail": "After sunset move to Muzdalifah, pray Maghrib and Isha together, rest, and pray Fajr. Collect pebbles if you wish.",
+  "dua": ""
+ },
+ {
+  "id": "j7",
+  "title": "7. Jamarat and sacrifice - 10th Dhul Hijjah",
+  "detail": "Stone the large pillar (Jamrat al-Aqabah) with seven pebbles saying \"Allahu Akbar\" with each throw, then sacrifice, shave or trim, and remove ihram.",
+  "dua": "اللَّهُ أَكْبَرُ"
+ },
+ {
+  "id": "j8",
+  "title": "8. Tawaf al-Ifadah",
+  "detail": "Return to Makkah for the essential tawaf of Hajj, seven circuits, then Sa’i if required for your type of Hajj.",
+  "dua": ""
+ },
+ {
+  "id": "j9",
+  "title": "9. Mina days - 11th to 12th",
+  "detail": "Stay in Mina and stone the three pillars after noon each day, smallest to largest, seven pebbles each.",
+  "dua": "اللَّهُ أَكْبَرُ"
+ },
+ {
+  "id": "j10",
+  "title": "10. Tawaf al-Wada’",
+  "detail": "The farewell tawaf before leaving Makkah, seven circuits without sa’i.",
+  "dua": ""
+ }
+]
