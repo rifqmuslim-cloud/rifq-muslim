@@ -1,28 +1,86 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "RIFQ Muslim",
+    "slug": "rifq-muslim",
+    "scheme": "rifqmuslim",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0B6E4F",
+    "primaryColor": "#0B6E4F",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B6E4F"
+    },
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rifqmuslim.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "RIFQ Muslim",
+        "NSLocationWhenInUseUsageDescription": "RIFQ Muslim uses your location to calculate accurate prayer times, the Qibla direction and the Hijri calendar for where you actually are. Your coordinates stay on your device except for the city lookup.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "RIFQ Muslim uses your location to keep prayer times accurate while you travel.",
+        "NSMotionUsageDescription": "RIFQ Muslim reads the compass to point you towards the Qibla.",
+        "UIBackgroundModes": ["audio"],
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
+      "package": "com.rifqmuslim.app",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0B6E4F",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "POST_NOTIFICATIONS",
+        "VIBRATE",
+        "RECEIVE_BOOT_COMPLETED",
+        "SCHEDULE_EXACT_ALARM"
+      ],
+      "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png",
+      "name": "RIFQ Muslim",
+      "shortName": "RIFQ",
+      "themeColor": "#0B6E4F",
+      "backgroundColor": "#0B6E4F",
+      "description": "RIFQ Muslim - Your Faith, Your Daily Companion. Prayer times, Qibla, Quran and daily worship, worldwide."
     },
     "plugins": [
       "expo-font",
-      "expo-audio"
-    ]
+      "expo-audio",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "RIFQ Muslim uses your location to calculate prayer times and the Qibla direction for where you are.",
+          "isAndroidBackgroundLocationEnabled": false,
+          "isIosBackgroundLocationEnabled": false
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#0B6E4F",
+          "sounds": []
+        }
+      ]
+    ],
+    "extra": {
+      "developer": "Eng Mohamud Yusuf",
+      "slogan": "Your Faith, Your Daily Companion",
+      "apiUrl": "https://rifqmuslim.app"
+    }
   }
 }
