@@ -1,0 +1,23 @@
+{
+  "name": "rifq-muslim",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RIFQ Muslim - Your Faith, Your Daily Companion. Cross-platform Islamic app (Android + iOS) with shared backend.",
+  "author": "Eng Mohamud Yusuf",
+  "license": "UNLICENSED",
+  "main": "server/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node server/index.js",
+    "install:all": "npm install && npm --prefix mobile install",
+    "build:web": "npm --prefix mobile run export:web",
+    "check:server": "node scripts/server-selftest.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
