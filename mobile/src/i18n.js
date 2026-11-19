@@ -186,7 +186,7 @@ const strings = {
     timezone: 'Aagga waqtiga',
     localTime: 'Waqtiga maxalliga',
     coordinates: 'Isku-duwaha GPS',
-    gpsDetected: 'GPS ayaa go'aansaday',
+    gpsDetected: 'GPS ayaa go\'aansaday',
     manualSelected: 'Gacanta lagu doortay',
     unavailable: 'Goobta lama heli karo',
     refreshLocation: 'Cusboonaysii goobta',
