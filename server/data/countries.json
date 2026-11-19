@@ -8,7 +8,9 @@
   "flag": "🇦🇫",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Kabul"
+  ],
   "latlng": [
    33,
    65
@@ -25,7 +27,9 @@
   "flag": "🇦🇽",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Mariehamn"
+  ],
   "latlng": [
    60.116667,
    19.9
@@ -42,7 +46,9 @@
   "flag": "🇦🇱",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Tirane"
+  ],
   "latlng": [
    41,
    20
@@ -59,7 +65,9 @@
   "flag": "🇩🇿",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Algiers"
+  ],
   "latlng": [
    28,
    3
@@ -76,7 +84,9 @@
   "flag": "🇦🇸",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Pago_Pago"
+  ],
   "latlng": [
    -14.33333333,
    -170
@@ -93,7 +103,9 @@
   "flag": "🇦🇩",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Andorra"
+  ],
   "latlng": [
    42.5,
    1.5
@@ -110,7 +122,9 @@
   "flag": "🇦🇴",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Luanda"
+  ],
   "latlng": [
    -12.5,
    18.5
@@ -127,7 +141,9 @@
   "flag": "🇦🇮",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Anguilla"
+  ],
   "latlng": [
    18.25,
    -63.16666666
@@ -144,7 +160,9 @@
   "flag": "🇦🇶",
   "region": "Antarctic",
   "subregion": null,
-  "timezones": [],
+  "timezones": [
+   "Antarctica/McMurdo"
+  ],
   "latlng": [
    -90,
    0
@@ -161,7 +179,9 @@
   "flag": "🇦🇬",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Antigua"
+  ],
   "latlng": [
    17.05,
    -61.8
@@ -178,7 +198,9 @@
   "flag": "🇦🇷",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Argentina/Cordoba"
+  ],
   "latlng": [
    -34,
    -64
@@ -195,7 +217,9 @@
   "flag": "🇦🇲",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Yerevan"
+  ],
   "latlng": [
    40,
    45
@@ -212,7 +236,9 @@
   "flag": "🇦🇼",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Aruba"
+  ],
   "latlng": [
    12.5,
    -69.96666666
@@ -229,7 +255,9 @@
   "flag": "🇦🇺",
   "region": "Oceania",
   "subregion": "Australia and New Zealand",
-  "timezones": [],
+  "timezones": [
+   "Australia/Adelaide"
+  ],
   "latlng": [
    -27,
    133
@@ -246,7 +274,9 @@
   "flag": "🇦🇹",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Vienna"
+  ],
   "latlng": [
    47.33333333,
    13.33333333
@@ -263,7 +293,9 @@
   "flag": "🇦🇿",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Baku"
+  ],
   "latlng": [
    40.5,
    47.5
@@ -280,7 +312,9 @@
   "flag": "🇧🇸",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Nassau"
+  ],
   "latlng": [
    24.25,
    -76
@@ -297,7 +331,9 @@
   "flag": "🇧🇭",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Bahrain"
+  ],
   "latlng": [
    26,
    50.55
@@ -314,7 +350,9 @@
   "flag": "🇧🇩",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Dhaka"
+  ],
   "latlng": [
    24,
    90
@@ -331,7 +369,9 @@
   "flag": "🇧🇧",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Barbados"
+  ],
   "latlng": [
    13.16666666,
    -59.53333333
@@ -348,7 +388,9 @@
   "flag": "🇧🇾",
   "region": "Europe",
   "subregion": "Eastern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Minsk"
+  ],
   "latlng": [
    53,
    28
@@ -365,7 +407,9 @@
   "flag": "🇧🇪",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Brussels"
+  ],
   "latlng": [
    50.83333333,
    4
@@ -382,7 +426,9 @@
   "flag": "🇧🇿",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Belize"
+  ],
   "latlng": [
    17.25,
    -88.75
@@ -399,7 +445,9 @@
   "flag": "🇧🇯",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Porto-Novo"
+  ],
   "latlng": [
    9.5,
    2.25
@@ -416,7 +464,9 @@
   "flag": "🇧🇲",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/Bermuda"
+  ],
   "latlng": [
    32.33333333,
    -64.75
@@ -433,7 +483,9 @@
   "flag": "🇧🇹",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Thimphu"
+  ],
   "latlng": [
    27.5,
    90.5
@@ -450,7 +502,9 @@
   "flag": "🇧🇴",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/La_Paz"
+  ],
   "latlng": [
    -17,
    -65
@@ -467,7 +521,9 @@
   "flag": "🇧🇦",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Sarajevo"
+  ],
   "latlng": [
    44,
    18
@@ -484,7 +540,9 @@
   "flag": "🇧🇼",
   "region": "Africa",
   "subregion": "Southern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Gaborone"
+  ],
   "latlng": [
    -22,
    24
@@ -501,7 +559,9 @@
   "flag": "🇧🇻",
   "region": "Antarctic",
   "subregion": null,
-  "timezones": [],
+  "timezones": [
+   "Etc/GMT"
+  ],
   "latlng": [
    -54.43333333,
    3.4
@@ -518,7 +578,9 @@
   "flag": "🇧🇷",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Cuiaba"
+  ],
   "latlng": [
    -10,
    -55
@@ -535,7 +597,9 @@
   "flag": "🇮🇴",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Chagos"
+  ],
   "latlng": [
    -6,
    71.5
@@ -552,7 +616,9 @@
   "flag": "🇻🇬",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Tortola"
+  ],
   "latlng": [
    18.431383,
    -64.62305
@@ -569,7 +635,9 @@
   "flag": "🇧🇳",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Kuching"
+  ],
   "latlng": [
    4.5,
    114.66666666
@@ -586,7 +654,9 @@
   "flag": "🇧🇬",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Sofia"
+  ],
   "latlng": [
    43,
    25
@@ -603,7 +673,9 @@
   "flag": "🇧🇫",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Ouagadougou"
+  ],
   "latlng": [
    13,
    -2
@@ -620,7 +692,9 @@
   "flag": "🇧🇮",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Bujumbura"
+  ],
   "latlng": [
    -3.5,
    30
@@ -637,7 +711,9 @@
   "flag": "🇰🇭",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Phnom_Penh"
+  ],
   "latlng": [
    13,
    105
@@ -654,7 +730,9 @@
   "flag": "🇨🇲",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Douala"
+  ],
   "latlng": [
    6,
    12
@@ -671,7 +749,9 @@
   "flag": "🇨🇦",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "America/Rankin_Inlet"
+  ],
   "latlng": [
    60,
    -95
@@ -688,7 +768,9 @@
   "flag": "🇨🇻",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/Cape_Verde"
+  ],
   "latlng": [
    16,
    -24
@@ -705,7 +787,9 @@
   "flag": "",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Caracas"
+  ],
   "latlng": [
    12.18,
    -68.25
@@ -722,7 +806,9 @@
   "flag": "🇰🇾",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Cayman"
+  ],
   "latlng": [
    19.5,
    -80.5
@@ -739,7 +825,9 @@
   "flag": "🇨🇫",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Bangui"
+  ],
   "latlng": [
    7,
    21
@@ -756,7 +844,9 @@
   "flag": "🇹🇩",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Ndjamena"
+  ],
   "latlng": [
    15,
    19
@@ -773,7 +863,9 @@
   "flag": "🇨🇱",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Santiago"
+  ],
   "latlng": [
    -30,
    -71
@@ -790,7 +882,9 @@
   "flag": "🇨🇳",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Shanghai"
+  ],
   "latlng": [
    35,
    105
@@ -807,7 +901,9 @@
   "flag": "🇨🇽",
   "region": "Oceania",
   "subregion": "Australia and New Zealand",
-  "timezones": [],
+  "timezones": [
+   "Indian/Christmas"
+  ],
   "latlng": [
    -10.5,
    105.66666666
@@ -824,7 +920,9 @@
   "flag": "🇨🇨",
   "region": "Oceania",
   "subregion": "Australia and New Zealand",
-  "timezones": [],
+  "timezones": [
+   "Indian/Cocos"
+  ],
   "latlng": [
    -12.5,
    96.83333333
@@ -841,7 +939,9 @@
   "flag": "🇨🇴",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Bogota"
+  ],
   "latlng": [
    4,
    -72
@@ -858,7 +958,9 @@
   "flag": "🇰🇲",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Comoro"
+  ],
   "latlng": [
    -12.16666666,
    44.25
@@ -875,7 +977,9 @@
   "flag": "🇨🇰",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Rarotonga"
+  ],
   "latlng": [
    -21.23333333,
    -159.76666666
@@ -892,7 +996,9 @@
   "flag": "🇨🇷",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Costa_Rica"
+  ],
   "latlng": [
    10,
    -84
@@ -909,7 +1015,9 @@
   "flag": "🇭🇷",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Zagreb"
+  ],
   "latlng": [
    45.16666666,
    15.5
@@ -926,7 +1034,9 @@
   "flag": "🇨🇺",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Havana"
+  ],
   "latlng": [
    21.5,
    -80
@@ -943,7 +1053,9 @@
   "flag": "🇨🇼",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Curacao"
+  ],
   "latlng": [
    12.116667,
    -68.933333
@@ -960,7 +1072,9 @@
   "flag": "🇨🇾",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Asia/Nicosia"
+  ],
   "latlng": [
    35,
    33
@@ -977,7 +1091,9 @@
   "flag": "🇨🇿",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Prague"
+  ],
   "latlng": [
    49.75,
    15.5
@@ -994,7 +1110,9 @@
   "flag": "🇩🇰",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Copenhagen"
+  ],
   "latlng": [
    56,
    10
@@ -1011,7 +1129,9 @@
   "flag": "🇩🇯",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Djibouti"
+  ],
   "latlng": [
    11.5,
    43
@@ -1028,7 +1148,9 @@
   "flag": "🇩🇲",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Dominica"
+  ],
   "latlng": [
    15.41666666,
    -61.33333333
@@ -1045,7 +1167,9 @@
   "flag": "🇩🇴",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Santo_Domingo"
+  ],
   "latlng": [
    19,
    -70.66666666
@@ -1062,7 +1186,9 @@
   "flag": "🇨🇩",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Lubumbashi"
+  ],
   "latlng": [
    0,
    25
@@ -1079,7 +1205,9 @@
   "flag": "🇪🇨",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Guayaquil"
+  ],
   "latlng": [
    -2,
    -77.5
@@ -1096,7 +1224,9 @@
   "flag": "🇪🇬",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Cairo"
+  ],
   "latlng": [
    27,
    30
@@ -1113,7 +1243,9 @@
   "flag": "🇸🇻",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/El_Salvador"
+  ],
   "latlng": [
    13.83333333,
    -88.91666666
@@ -1130,7 +1262,9 @@
   "flag": "🇬🇶",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Douala"
+  ],
   "latlng": [
    2,
    10
@@ -1147,7 +1281,9 @@
   "flag": "🇪🇷",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Asmara"
+  ],
   "latlng": [
    15,
    39
@@ -1164,7 +1300,9 @@
   "flag": "🇪🇪",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Tallinn"
+  ],
   "latlng": [
    59,
    26
@@ -1181,7 +1319,9 @@
   "flag": "🇸🇿",
   "region": "Africa",
   "subregion": "Southern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Mbabane"
+  ],
   "latlng": [
    -26.5,
    31.5
@@ -1198,7 +1338,9 @@
   "flag": "🇪🇹",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Addis_Ababa"
+  ],
   "latlng": [
    8,
    38
@@ -1215,7 +1357,9 @@
   "flag": "🇫🇰",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/Stanley"
+  ],
   "latlng": [
    -51.75,
    -59
@@ -1232,7 +1376,9 @@
   "flag": "🇫🇴",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/Faroe"
+  ],
   "latlng": [
    62,
    -7
@@ -1249,7 +1395,9 @@
   "flag": "🇫🇯",
   "region": "Oceania",
   "subregion": "Melanesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Fiji"
+  ],
   "latlng": [
    -18,
    175
@@ -1266,7 +1414,9 @@
   "flag": "🇫🇮",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Helsinki"
+  ],
   "latlng": [
    64,
    26
@@ -1283,7 +1433,9 @@
   "flag": "🇫🇷",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Paris"
+  ],
   "latlng": [
    46,
    2
@@ -1300,7 +1452,9 @@
   "flag": "🇬🇫",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Cayenne"
+  ],
   "latlng": [
    4,
    -53
@@ -1317,7 +1471,9 @@
   "flag": "🇵🇫",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Tahiti"
+  ],
   "latlng": [
    -15,
    -140
@@ -1334,7 +1490,9 @@
   "flag": "🇹🇫",
   "region": "Antarctic",
   "subregion": null,
-  "timezones": [],
+  "timezones": [
+   "Indian/Kerguelen"
+  ],
   "latlng": [
    -49.25,
    69.167
@@ -1351,7 +1509,9 @@
   "flag": "🇬🇦",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Libreville"
+  ],
   "latlng": [
    -1,
    11.75
@@ -1368,7 +1528,9 @@
   "flag": "🇬🇲",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Banjul"
+  ],
   "latlng": [
    13.46666666,
    -16.56666666
@@ -1385,7 +1547,9 @@
   "flag": "🇬🇪",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Tbilisi"
+  ],
   "latlng": [
    42,
    43.5
@@ -1402,7 +1566,9 @@
   "flag": "🇩🇪",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Berlin"
+  ],
   "latlng": [
    51,
    9
@@ -1419,7 +1585,9 @@
   "flag": "🇬🇭",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Accra"
+  ],
   "latlng": [
    8,
    -2
@@ -1436,7 +1604,9 @@
   "flag": "🇬🇮",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Gibraltar"
+  ],
   "latlng": [
    36.13333333,
    -5.35
@@ -1453,7 +1623,9 @@
   "flag": "🇬🇷",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Athens"
+  ],
   "latlng": [
    39,
    22
@@ -1470,7 +1642,9 @@
   "flag": "🇬🇱",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "America/Godthab"
+  ],
   "latlng": [
    72,
    -40
@@ -1487,7 +1661,9 @@
   "flag": "🇬🇩",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Grenada"
+  ],
   "latlng": [
    12.11666666,
    -61.66666666
@@ -1504,7 +1680,9 @@
   "flag": "🇬🇵",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Guadeloupe"
+  ],
   "latlng": [
    16.25,
    -61.583333
@@ -1521,7 +1699,9 @@
   "flag": "🇬🇺",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Guam"
+  ],
   "latlng": [
    13.46666666,
    144.78333333
@@ -1538,7 +1718,9 @@
   "flag": "🇬🇹",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Guatemala"
+  ],
   "latlng": [
    15.5,
    -90.25
@@ -1555,7 +1737,9 @@
   "flag": "🇬🇬",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Guernsey"
+  ],
   "latlng": [
    49.46666666,
    -2.58333333
@@ -1572,7 +1756,9 @@
   "flag": "🇬🇳",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Conakry"
+  ],
   "latlng": [
    11,
    -10
@@ -1589,7 +1775,9 @@
   "flag": "🇬🇼",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Bissau"
+  ],
   "latlng": [
    12,
    -15
@@ -1606,7 +1794,9 @@
   "flag": "🇬🇾",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Guyana"
+  ],
   "latlng": [
    5,
    -59
@@ -1623,7 +1813,9 @@
   "flag": "🇭🇹",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Port-au-Prince"
+  ],
   "latlng": [
    19,
    -72.41666666
@@ -1640,7 +1832,9 @@
   "flag": "🇭🇲",
   "region": "Antarctic",
   "subregion": null,
-  "timezones": [],
+  "timezones": [
+   "Etc/GMT-5"
+  ],
   "latlng": [
    -53.1,
    72.51666666
@@ -1657,7 +1851,9 @@
   "flag": "🇭🇳",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Tegucigalpa"
+  ],
   "latlng": [
    15,
    -86.5
@@ -1674,7 +1870,9 @@
   "flag": "🇭🇰",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Hong_Kong"
+  ],
   "latlng": [
    22.267,
    114.188
@@ -1691,7 +1889,9 @@
   "flag": "🇭🇺",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Budapest"
+  ],
   "latlng": [
    47,
    20
@@ -1708,7 +1908,9 @@
   "flag": "🇮🇸",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/Reykjavik"
+  ],
   "latlng": [
    65,
    -18
@@ -1725,7 +1927,9 @@
   "flag": "🇮🇳",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Kolkata"
+  ],
   "latlng": [
    20,
    77
@@ -1742,7 +1946,9 @@
   "flag": "🇮🇩",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Makassar"
+  ],
   "latlng": [
    -5,
    120
@@ -1759,7 +1965,9 @@
   "flag": "🇮🇷",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Tehran"
+  ],
   "latlng": [
    32,
    53
@@ -1776,7 +1984,9 @@
   "flag": "🇮🇶",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Baghdad"
+  ],
   "latlng": [
    33,
    44
@@ -1793,7 +2003,9 @@
   "flag": "🇮🇪",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Dublin"
+  ],
   "latlng": [
    53,
    -8
@@ -1810,7 +2022,9 @@
   "flag": "🇮🇲",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Isle_of_Man"
+  ],
   "latlng": [
    54.25,
    -4.5
@@ -1827,7 +2041,9 @@
   "flag": "🇮🇱",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Hebron"
+  ],
   "latlng": [
    31.47,
    35.13
@@ -1844,7 +2060,9 @@
   "flag": "🇮🇹",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Rome"
+  ],
   "latlng": [
    42.83333333,
    12.83333333
@@ -1861,7 +2079,9 @@
   "flag": "🇨🇮",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Abidjan"
+  ],
   "latlng": [
    8,
    -5
@@ -1878,7 +2098,9 @@
   "flag": "🇯🇲",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Jamaica"
+  ],
   "latlng": [
    18.25,
    -77.5
@@ -1895,7 +2117,9 @@
   "flag": "🇯🇵",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Tokyo"
+  ],
   "latlng": [
    36,
    138
@@ -1912,7 +2136,9 @@
   "flag": "🇯🇪",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Guernsey"
+  ],
   "latlng": [
    49.25,
    -2.16666666
@@ -1929,7 +2155,9 @@
   "flag": "🇯🇴",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Amman"
+  ],
   "latlng": [
    31,
    36
@@ -1946,7 +2174,9 @@
   "flag": "🇰🇿",
   "region": "Asia",
   "subregion": "Central Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Almaty"
+  ],
   "latlng": [
    48,
    68
@@ -1963,7 +2193,9 @@
   "flag": "🇰🇪",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Nairobi"
+  ],
   "latlng": [
    1,
    38
@@ -1980,7 +2212,9 @@
   "flag": "🇰🇮",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Tarawa"
+  ],
   "latlng": [
    1.41666666,
    173
@@ -1997,7 +2231,9 @@
   "flag": "🇽🇰",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Belgrade"
+  ],
   "latlng": [
    42.666667,
    21.166667
@@ -2014,7 +2250,9 @@
   "flag": "🇰🇼",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Baghdad"
+  ],
   "latlng": [
    29.5,
    45.75
@@ -2031,7 +2269,9 @@
   "flag": "🇰🇬",
   "region": "Asia",
   "subregion": "Central Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Bishkek"
+  ],
   "latlng": [
    41,
    75
@@ -2048,7 +2288,9 @@
   "flag": "🇱🇦",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Vientiane"
+  ],
   "latlng": [
    18,
    105
@@ -2065,7 +2307,9 @@
   "flag": "🇱🇻",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Riga"
+  ],
   "latlng": [
    57,
    25
@@ -2082,7 +2326,9 @@
   "flag": "🇱🇧",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Beirut"
+  ],
   "latlng": [
    33.83333333,
    35.83333333
@@ -2099,7 +2345,9 @@
   "flag": "🇱🇸",
   "region": "Africa",
   "subregion": "Southern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Maseru"
+  ],
   "latlng": [
    -29.5,
    28.5
@@ -2116,7 +2364,9 @@
   "flag": "🇱🇷",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Monrovia"
+  ],
   "latlng": [
    6.5,
    -9.5
@@ -2133,7 +2383,9 @@
   "flag": "🇱🇾",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Tripoli"
+  ],
   "latlng": [
    25,
    17
@@ -2150,7 +2402,9 @@
   "flag": "🇱🇮",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Zurich"
+  ],
   "latlng": [
    47.26666666,
    9.53333333
@@ -2167,7 +2421,9 @@
   "flag": "🇱🇹",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Vilnius"
+  ],
   "latlng": [
    56,
    24
@@ -2184,7 +2440,9 @@
   "flag": "🇱🇺",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Luxembourg"
+  ],
   "latlng": [
    49.75,
    6.16666666
@@ -2201,7 +2459,9 @@
   "flag": "🇲🇴",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Macau"
+  ],
   "latlng": [
    22.16666666,
    113.55
@@ -2218,7 +2478,9 @@
   "flag": "🇲🇬",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Antananarivo"
+  ],
   "latlng": [
    -20,
    47
@@ -2235,7 +2497,9 @@
   "flag": "🇲🇼",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Blantyre"
+  ],
   "latlng": [
    -13.5,
    34
@@ -2252,7 +2516,9 @@
   "flag": "🇲🇾",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Kuching"
+  ],
   "latlng": [
    2.5,
    112.5
@@ -2269,7 +2535,9 @@
   "flag": "🇲🇻",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Indian/Maldives"
+  ],
   "latlng": [
    3.25,
    73
@@ -2286,7 +2554,9 @@
   "flag": "🇲🇱",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Bamako"
+  ],
   "latlng": [
    17,
    -4
@@ -2303,7 +2573,9 @@
   "flag": "🇲🇹",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Malta"
+  ],
   "latlng": [
    35.83333333,
    14.58333333
@@ -2320,7 +2592,9 @@
   "flag": "🇲🇭",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Kwajalein"
+  ],
   "latlng": [
    9,
    168
@@ -2337,7 +2611,9 @@
   "flag": "🇲🇶",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Martinique"
+  ],
   "latlng": [
    14.666667,
    -61
@@ -2354,7 +2630,9 @@
   "flag": "🇲🇷",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Nouakchott"
+  ],
   "latlng": [
    20,
    -12
@@ -2371,7 +2649,9 @@
   "flag": "🇲🇺",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Mauritius"
+  ],
   "latlng": [
    -20.28333333,
    57.55
@@ -2388,7 +2668,9 @@
   "flag": "🇾🇹",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Mayotte"
+  ],
   "latlng": [
    -12.83333333,
    45.16666666
@@ -2405,7 +2687,9 @@
   "flag": "🇲🇽",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "America/Mexico_City"
+  ],
   "latlng": [
    23,
    -102
@@ -2422,7 +2706,9 @@
   "flag": "🇫🇲",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Pohnpei"
+  ],
   "latlng": [
    6.91666666,
    158.25
@@ -2439,7 +2725,9 @@
   "flag": "🇲🇩",
   "region": "Europe",
   "subregion": "Eastern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Chisinau"
+  ],
   "latlng": [
    47,
    29
@@ -2456,7 +2744,9 @@
   "flag": "🇲🇨",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Paris"
+  ],
   "latlng": [
    43.73333333,
    7.4
@@ -2473,7 +2763,9 @@
   "flag": "🇲🇳",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Ulaanbaatar"
+  ],
   "latlng": [
    46,
    105
@@ -2490,7 +2782,9 @@
   "flag": "🇲🇪",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Podgorica"
+  ],
   "latlng": [
    42.5,
    19.3
@@ -2507,7 +2801,9 @@
   "flag": "🇲🇸",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Montserrat"
+  ],
   "latlng": [
    16.75,
    -62.2
@@ -2524,7 +2820,9 @@
   "flag": "🇲🇦",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Casablanca"
+  ],
   "latlng": [
    32,
    -5
@@ -2541,7 +2839,9 @@
   "flag": "🇲🇿",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Maputo"
+  ],
   "latlng": [
    -18.25,
    35
@@ -2558,7 +2858,9 @@
   "flag": "🇲🇲",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Yangon"
+  ],
   "latlng": [
    22,
    98
@@ -2575,7 +2877,9 @@
   "flag": "🇳🇦",
   "region": "Africa",
   "subregion": "Southern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Windhoek"
+  ],
   "latlng": [
    -22,
    17
@@ -2592,7 +2896,9 @@
   "flag": "🇳🇷",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Nauru"
+  ],
   "latlng": [
    -0.53333333,
    166.91666666
@@ -2609,7 +2915,9 @@
   "flag": "🇳🇵",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Kathmandu"
+  ],
   "latlng": [
    28,
    84
@@ -2626,7 +2934,9 @@
   "flag": "🇳🇱",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Amsterdam"
+  ],
   "latlng": [
    52.5,
    5.75
@@ -2643,7 +2953,9 @@
   "flag": "🇳🇨",
   "region": "Oceania",
   "subregion": "Melanesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Noumea"
+  ],
   "latlng": [
    -21.5,
    165.5
@@ -2660,7 +2972,9 @@
   "flag": "🇳🇿",
   "region": "Oceania",
   "subregion": "Australia and New Zealand",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Auckland"
+  ],
   "latlng": [
    -41,
    174
@@ -2677,7 +2991,9 @@
   "flag": "🇳🇮",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Managua"
+  ],
   "latlng": [
    13,
    -85
@@ -2694,7 +3010,9 @@
   "flag": "🇳🇪",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Niamey"
+  ],
   "latlng": [
    16,
    8
@@ -2711,7 +3029,9 @@
   "flag": "🇳🇬",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Lagos"
+  ],
   "latlng": [
    10,
    8
@@ -2728,7 +3048,9 @@
   "flag": "🇳🇺",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Niue"
+  ],
   "latlng": [
    -19.03333333,
    -169.86666666
@@ -2745,7 +3067,9 @@
   "flag": "🇳🇫",
   "region": "Oceania",
   "subregion": "Australia and New Zealand",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Norfolk"
+  ],
   "latlng": [
    -29.03333333,
    167.95
@@ -2762,7 +3086,9 @@
   "flag": "🇰🇵",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Pyongyang"
+  ],
   "latlng": [
    40,
    127
@@ -2779,7 +3105,9 @@
   "flag": "🇲🇰",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Skopje"
+  ],
   "latlng": [
    41.83333333,
    22
@@ -2796,7 +3124,9 @@
   "flag": "🇲🇵",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Saipan"
+  ],
   "latlng": [
    15.2,
    145.75
@@ -2813,7 +3143,9 @@
   "flag": "🇳🇴",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Oslo"
+  ],
   "latlng": [
    62,
    10
@@ -2830,7 +3162,9 @@
   "flag": "🇴🇲",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Muscat"
+  ],
   "latlng": [
    21,
    57
@@ -2847,7 +3181,9 @@
   "flag": "🇵🇰",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Karachi"
+  ],
   "latlng": [
    30,
    70
@@ -2864,7 +3200,9 @@
   "flag": "🇵🇼",
   "region": "Oceania",
   "subregion": "Micronesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Palau"
+  ],
   "latlng": [
    7.5,
    134.5
@@ -2881,7 +3219,9 @@
   "flag": "🇵🇸",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Hebron"
+  ],
   "latlng": [
    31.9,
    35.2
@@ -2898,7 +3238,9 @@
   "flag": "🇵🇦",
   "region": "Americas",
   "subregion": "Central America",
-  "timezones": [],
+  "timezones": [
+   "America/Panama"
+  ],
   "latlng": [
    9,
    -80
@@ -2915,7 +3257,9 @@
   "flag": "🇵🇬",
   "region": "Oceania",
   "subregion": "Melanesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Port_Moresby"
+  ],
   "latlng": [
    -6,
    147
@@ -2932,7 +3276,9 @@
   "flag": "🇵🇾",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Asuncion"
+  ],
   "latlng": [
    -23,
    -58
@@ -2949,7 +3295,9 @@
   "flag": "🇵🇪",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Lima"
+  ],
   "latlng": [
    -10,
    -76
@@ -2966,7 +3314,9 @@
   "flag": "🇵🇭",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Manila"
+  ],
   "latlng": [
    13,
    122
@@ -2983,7 +3333,9 @@
   "flag": "🇵🇳",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Pitcairn"
+  ],
   "latlng": [
    -25.06666666,
    -130.1
@@ -3000,7 +3352,9 @@
   "flag": "🇵🇱",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Warsaw"
+  ],
   "latlng": [
    52,
    20
@@ -3017,7 +3371,9 @@
   "flag": "🇵🇹",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Lisbon"
+  ],
   "latlng": [
    39.5,
    -8
@@ -3034,7 +3390,9 @@
   "flag": "🇵🇷",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Puerto_Rico"
+  ],
   "latlng": [
    18.25,
    -66.5
@@ -3051,7 +3409,9 @@
   "flag": "🇶🇦",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Qatar"
+  ],
   "latlng": [
    25.5,
    51.25
@@ -3068,7 +3428,9 @@
   "flag": "🇨🇬",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Brazzaville"
+  ],
   "latlng": [
    -1,
    15
@@ -3085,7 +3447,9 @@
   "flag": "🇷🇪",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Reunion"
+  ],
   "latlng": [
    -21.15,
    55.5
@@ -3102,7 +3466,9 @@
   "flag": "🇷🇴",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Bucharest"
+  ],
   "latlng": [
    46,
    25
@@ -3119,7 +3485,9 @@
   "flag": "🇷🇺",
   "region": "Europe",
   "subregion": "Eastern Europe",
-  "timezones": [],
+  "timezones": [
+   "Asia/Krasnoyarsk"
+  ],
   "latlng": [
    60,
    100
@@ -3136,7 +3504,9 @@
   "flag": "🇷🇼",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Kigali"
+  ],
   "latlng": [
    -2,
    30
@@ -3153,7 +3523,9 @@
   "flag": "🇧🇱",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Anguilla"
+  ],
   "latlng": [
    18.5,
    -63.41666666
@@ -3170,7 +3542,9 @@
   "flag": "🇸🇭",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Atlantic/St_Helena"
+  ],
   "latlng": [
    -15.95,
    -5.72
@@ -3187,7 +3561,9 @@
   "flag": "🇰🇳",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/St_Kitts"
+  ],
   "latlng": [
    17.33333333,
    -62.75
@@ -3204,7 +3580,9 @@
   "flag": "🇱🇨",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/St_Vincent"
+  ],
   "latlng": [
    13.88333333,
    -60.96666666
@@ -3221,7 +3599,9 @@
   "flag": "🇲🇫",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Tortola"
+  ],
   "latlng": [
    18.08333333,
    -63.95
@@ -3238,7 +3618,9 @@
   "flag": "🇵🇲",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "America/Miquelon"
+  ],
   "latlng": [
    46.83333333,
    -56.33333333
@@ -3255,7 +3637,9 @@
   "flag": "🇻🇨",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/St_Vincent"
+  ],
   "latlng": [
    13.25,
    -61.2
@@ -3272,7 +3656,9 @@
   "flag": "🇼🇸",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Apia"
+  ],
   "latlng": [
    -13.58333333,
    -172.33333333
@@ -3289,7 +3675,9 @@
   "flag": "🇸🇲",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Rome"
+  ],
   "latlng": [
    43.76666666,
    12.41666666
@@ -3306,7 +3694,9 @@
   "flag": "🇸🇹",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Sao_Tome"
+  ],
   "latlng": [
    1,
    7
@@ -3323,7 +3713,9 @@
   "flag": "🇸🇦",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Riyadh"
+  ],
   "latlng": [
    25,
    45
@@ -3340,7 +3732,9 @@
   "flag": "🇸🇳",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Dakar"
+  ],
   "latlng": [
    14,
    -14
@@ -3357,7 +3751,9 @@
   "flag": "🇷🇸",
   "region": "Europe",
   "subregion": "Southeast Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Belgrade"
+  ],
   "latlng": [
    44,
    21
@@ -3374,7 +3770,9 @@
   "flag": "🇸🇨",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Indian/Mahe"
+  ],
   "latlng": [
    -4.58333333,
    55.66666666
@@ -3391,7 +3789,9 @@
   "flag": "🇸🇱",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Freetown"
+  ],
   "latlng": [
    8.5,
    -11.5
@@ -3408,7 +3808,9 @@
   "flag": "🇸🇬",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Singapore"
+  ],
   "latlng": [
    1.36666666,
    103.8
@@ -3425,7 +3827,9 @@
   "flag": "🇸🇽",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Lower_Princes"
+  ],
   "latlng": [
    18.033333,
    -63.05
@@ -3442,7 +3846,9 @@
   "flag": "🇸🇰",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Bratislava"
+  ],
   "latlng": [
    48.66666666,
    19.5
@@ -3459,7 +3865,9 @@
   "flag": "🇸🇮",
   "region": "Europe",
   "subregion": "Central Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Ljubljana"
+  ],
   "latlng": [
    46.11666666,
    14.81666666
@@ -3476,7 +3884,9 @@
   "flag": "🇸🇧",
   "region": "Oceania",
   "subregion": "Melanesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Guadalcanal"
+  ],
   "latlng": [
    -8,
    159
@@ -3493,7 +3903,9 @@
   "flag": "🇸🇴",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Mogadishu"
+  ],
   "latlng": [
    10,
    49
@@ -3510,7 +3922,9 @@
   "flag": "🇿🇦",
   "region": "Africa",
   "subregion": "Southern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Johannesburg"
+  ],
   "latlng": [
    -29,
    24
@@ -3527,7 +3941,9 @@
   "flag": "🇬🇸",
   "region": "Antarctic",
   "subregion": null,
-  "timezones": [],
+  "timezones": [
+   "Atlantic/South_Georgia"
+  ],
   "latlng": [
    -54.5,
    -37
@@ -3544,7 +3960,9 @@
   "flag": "🇰🇷",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Seoul"
+  ],
   "latlng": [
    37,
    127.5
@@ -3561,7 +3979,9 @@
   "flag": "🇸🇸",
   "region": "Africa",
   "subregion": "Middle Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Juba"
+  ],
   "latlng": [
    7,
    30
@@ -3578,7 +3998,9 @@
   "flag": "🇪🇸",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Madrid"
+  ],
   "latlng": [
    40,
    -4
@@ -3595,7 +4017,9 @@
   "flag": "🇱🇰",
   "region": "Asia",
   "subregion": "Southern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Colombo"
+  ],
   "latlng": [
    7,
    81
@@ -3612,7 +4036,9 @@
   "flag": "🇸🇩",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Khartoum"
+  ],
   "latlng": [
    15,
    30
@@ -3629,7 +4055,9 @@
   "flag": "🇸🇷",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Paramaribo"
+  ],
   "latlng": [
    4,
    -56
@@ -3646,7 +4074,9 @@
   "flag": "🇸🇯",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Arctic/Longyearbyen"
+  ],
   "latlng": [
    78,
    20
@@ -3663,7 +4093,9 @@
   "flag": "🇸🇪",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Stockholm"
+  ],
   "latlng": [
    62,
    15
@@ -3680,7 +4112,9 @@
   "flag": "🇨🇭",
   "region": "Europe",
   "subregion": "Western Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Zurich"
+  ],
   "latlng": [
    47,
    8
@@ -3697,7 +4131,9 @@
   "flag": "🇸🇾",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Damascus"
+  ],
   "latlng": [
    35,
    38
@@ -3714,7 +4150,9 @@
   "flag": "🇹🇼",
   "region": "Asia",
   "subregion": "Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Taipei"
+  ],
   "latlng": [
    23.5,
    121
@@ -3731,7 +4169,9 @@
   "flag": "🇹🇯",
   "region": "Asia",
   "subregion": "Central Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Dushanbe"
+  ],
   "latlng": [
    39,
    71
@@ -3748,7 +4188,9 @@
   "flag": "🇹🇿",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Dar_es_Salaam"
+  ],
   "latlng": [
    -6,
    35
@@ -3765,7 +4207,9 @@
   "flag": "🇹🇭",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Bangkok"
+  ],
   "latlng": [
    15,
    100
@@ -3782,7 +4226,9 @@
   "flag": "🇹🇱",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Dili"
+  ],
   "latlng": [
    -8.83333333,
    125.91666666
@@ -3799,7 +4245,9 @@
   "flag": "🇹🇬",
   "region": "Africa",
   "subregion": "Western Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Lome"
+  ],
   "latlng": [
    8,
    1.16666666
@@ -3816,7 +4264,9 @@
   "flag": "🇹🇰",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Fakaofo"
+  ],
   "latlng": [
    -9,
    -172
@@ -3833,7 +4283,9 @@
   "flag": "🇹🇴",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Tongatapu"
+  ],
   "latlng": [
    -20,
    -175
@@ -3850,7 +4302,9 @@
   "flag": "🇹🇹",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Port_of_Spain"
+  ],
   "latlng": [
    11,
    -61
@@ -3867,7 +4321,9 @@
   "flag": "🇹🇳",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Tunis"
+  ],
   "latlng": [
    34,
    9
@@ -3884,7 +4340,9 @@
   "flag": "🇹🇷",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Europe/Istanbul"
+  ],
   "latlng": [
    39,
    35
@@ -3901,7 +4359,9 @@
   "flag": "🇹🇲",
   "region": "Asia",
   "subregion": "Central Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Ashgabat"
+  ],
   "latlng": [
    40,
    60
@@ -3918,7 +4378,9 @@
   "flag": "🇹🇨",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/Grand_Turk"
+  ],
   "latlng": [
    21.75,
    -71.58333333
@@ -3935,7 +4397,9 @@
   "flag": "🇹🇻",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Funafuti"
+  ],
   "latlng": [
    -8,
    178
@@ -3952,7 +4416,9 @@
   "flag": "🇺🇬",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Kampala"
+  ],
   "latlng": [
    1,
    32
@@ -3969,7 +4435,9 @@
   "flag": "🇺🇦",
   "region": "Europe",
   "subregion": "Eastern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Kiev"
+  ],
   "latlng": [
    49,
    32
@@ -3986,7 +4454,9 @@
   "flag": "🇦🇪",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Dubai"
+  ],
   "latlng": [
    24,
    54
@@ -4003,7 +4473,9 @@
   "flag": "🇬🇧",
   "region": "Europe",
   "subregion": "Northern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/London"
+  ],
   "latlng": [
    54,
    -2
@@ -4020,7 +4492,9 @@
   "flag": "🇺🇸",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "America/Chicago"
+  ],
   "latlng": [
    38,
    -97
@@ -4037,7 +4511,9 @@
   "flag": "🇺🇲",
   "region": "Americas",
   "subregion": "North America",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Wake"
+  ],
   "latlng": [
    19.3,
    166.633333
@@ -4054,7 +4530,9 @@
   "flag": "🇻🇮",
   "region": "Americas",
   "subregion": "Caribbean",
-  "timezones": [],
+  "timezones": [
+   "America/St_Thomas"
+  ],
   "latlng": [
    18.35,
    -64.933333
@@ -4071,7 +4549,9 @@
   "flag": "🇺🇾",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Montevideo"
+  ],
   "latlng": [
    -33,
    -56
@@ -4088,7 +4568,9 @@
   "flag": "🇺🇿",
   "region": "Asia",
   "subregion": "Central Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Samarkand"
+  ],
   "latlng": [
    41,
    64
@@ -4105,7 +4587,9 @@
   "flag": "🇻🇺",
   "region": "Oceania",
   "subregion": "Melanesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Efate"
+  ],
   "latlng": [
    -16,
    167
@@ -4122,7 +4606,9 @@
   "flag": "🇻🇦",
   "region": "Europe",
   "subregion": "Southern Europe",
-  "timezones": [],
+  "timezones": [
+   "Europe/Rome"
+  ],
   "latlng": [
    41.9,
    12.45
@@ -4139,7 +4625,9 @@
   "flag": "🇻🇪",
   "region": "Americas",
   "subregion": "South America",
-  "timezones": [],
+  "timezones": [
+   "America/Caracas"
+  ],
   "latlng": [
    8,
    -66
@@ -4156,7 +4644,9 @@
   "flag": "🇻🇳",
   "region": "Asia",
   "subregion": "South-Eastern Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Ho_Chi_Minh"
+  ],
   "latlng": [
    16.16666666,
    107.83333333
@@ -4173,7 +4663,9 @@
   "flag": "🇼🇫",
   "region": "Oceania",
   "subregion": "Polynesia",
-  "timezones": [],
+  "timezones": [
+   "Pacific/Wallis"
+  ],
   "latlng": [
    -13.3,
    -176.2
@@ -4190,7 +4682,9 @@
   "flag": "🇪🇭",
   "region": "Africa",
   "subregion": "Northern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/El_Aaiun"
+  ],
   "latlng": [
    24.5,
    -13
@@ -4207,7 +4701,9 @@
   "flag": "🇾🇪",
   "region": "Asia",
   "subregion": "Western Asia",
-  "timezones": [],
+  "timezones": [
+   "Asia/Aden"
+  ],
   "latlng": [
    15,
    48
@@ -4224,7 +4720,9 @@
   "flag": "🇿🇲",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Lusaka"
+  ],
   "latlng": [
    -15,
    30
@@ -4241,7 +4739,9 @@
   "flag": "🇿🇼",
   "region": "Africa",
   "subregion": "Eastern Africa",
-  "timezones": [],
+  "timezones": [
+   "Africa/Harare"
+  ],
   "latlng": [
    -20,
    30
