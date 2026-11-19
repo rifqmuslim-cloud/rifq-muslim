@@ -49,12 +49,12 @@ const BUILDERS = {
 /** Sensible default method per country (only a default - the user can change it). */
 export function suggestedMethod(countryCode) {
   const map = {
-    SO: 'MWL\', KE: \'MWL\', ET: \'MWL\', DJ: \'MWL',
-    SA: 'Makkah\', AE: \'Dubai\', KW: \'Kuwait\', QA: \'Qatar\', BH: \'Makkah\', OM: \'Makkah\', YE: \'Makkah',
-    EG: 'Egypt\', SD: \'Egypt\', LY: \'Egypt\', DZ: \'Egypt\', TN: \'Egypt\', MA: \'Egypt',
-    PK: 'Karachi\', IN: \'Karachi\', BD: \'Karachi\', AF: \'Karachi\', LK: \'Karachi',
-    US: 'ISNA\', CA: \'ISNA\', GB: \'MoonsightingCommittee',
-    TR: 'Turkey\', IR: \'Tehran\', SG: \'Singapore\', MY: \'Singapore\', ID: \'Singapore'
+    SO: 'MWL', KE: 'MWL', ET: 'MWL', DJ: 'MWL',
+    SA: 'Makkah', AE: 'Dubai', KW: 'Kuwait', QA: 'Qatar', BH: 'Makkah', OM: 'Makkah', YE: 'Makkah',
+    EG: 'Egypt', SD: 'Egypt', LY: 'Egypt', DZ: 'Egypt', TN: 'Egypt', MA: 'Egypt',
+    PK: 'Karachi', IN: 'Karachi', BD: 'Karachi', AF: 'Karachi', LK: 'Karachi',
+    US: 'ISNA', CA: 'ISNA', GB: 'MoonsightingCommittee',
+    TR: 'Turkey', IR: 'Tehran', SG: 'Singapore', MY: 'Singapore', ID: 'Singapore'
   };
   return map[String(countryCode || '').toUpperCase()] || 'MWL';
 }
